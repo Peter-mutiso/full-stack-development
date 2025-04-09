@@ -1,0 +1,48 @@
+﻿FOOD DELIVERY ECOMMERCE WEBSITE USING NODE AND REACT AND MONGODB AND STRIPE FOR PAYMENTS
+Screenshots for the folders
+- Backed
+- Fronted
+- Admin
+
+
+The following is the admin panel
+
+
+Add item section for the admin where they add items to be displayed in the fronted
+
+
+
+The following screenshot shows the list of the items added to the system
+
+
+
+The following screenshot in now the fronted UI
+
+
+
+Following are the food categories
+
+
+Then the added foods from the admin page are displayed here
+
+
+Customers can order food from this site and it be added to cart
+
+The orders have been added to Cart the red button bellow 
+
+The system has authentications ,
+LOG IN
+
+
+SIGN UP
+
+
+When you click the cart it redirects you to the proceed to checkout
+
+
+Payments details are feed
+
+
+My footer
+
+
